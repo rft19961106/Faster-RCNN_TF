@@ -2,3 +2,6 @@
 
 ### Result
 
+![image](https://github.com/rft19961106/Faster-RCNN_TF/blob/master/Figure_1.png)
+![image](https://github.com/rft19961106/Faster-RCNN_TF/blob/master/Figure_2.png)
+
